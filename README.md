@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yogesh188
+- 👋 Hi, I’m @Yogesh Kumbhar
 - 📫 How to reach me by mail : yogesh.kumbhar188@gmail.com
 - You can check my projects here : https://yogeshkumbhar.netlify.app/
 
